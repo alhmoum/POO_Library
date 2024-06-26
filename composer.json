@@ -1,0 +1,21 @@
+{
+    "name": "yassan/poo-library-project",
+    "description": "Description of your project",
+    "type": "project",
+    "require": {
+        "php": "^8.3.8"
+        
+    },
+    "require-dev": {
+      
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "Library/"
+        }
+    }
+
+  
+  
+   
+}
